@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Some git commands",
-      "path": "00-Inbox/Some git commands.md"
+      "basename": "Quiz_Test",
+      "path": "1.MPU/WPP/Quiz_Test.md"
+    },
+    {
+      "basename": "Test_Questions",
+      "path": "1.MPU/WPP/Test_Questions.md"
     },
     {
       "basename": "Final Revision",
       "path": "1.MPU/Anti_Corruption/Final Revision.md"
+    },
+    {
+      "basename": "Some git commands",
+      "path": "00-Inbox/Some git commands.md"
     },
     {
       "basename": "Final Lessons",
@@ -191,10 +199,6 @@
     {
       "basename": "Lists In Python",
       "path": "Lists In Python.md"
-    },
-    {
-      "basename": "Python Workflow Example",
-      "path": "Implement Zettelkasten Into a Workflow/Python Workflow Example.md"
     }
   ],
   "omittedPaths": [],

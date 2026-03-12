@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3abfb780012e0c7d",
+        "id": "4f79c2275d11e152",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebaf017e8e5bbb5",
+            "id": "a3d77175da9e713e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/Some git commands.md",
+                "file": "1.MPU/WPP/Quiz_Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some git commands"
-            }
-          },
-          {
-            "id": "124e97e690f24b7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.MPU/WPP/Comparison/Nike VS Adidas Vs Puma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nike VS Adidas Vs Puma"
+              "title": "Quiz_Test"
             }
           }
         ]
@@ -175,19 +161,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "dbfbcb76b8dbf2c3",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -212,9 +188,12 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5ebaf017e8e5bbb5",
+  "active": "a3d77175da9e713e",
   "lastOpenFiles": [
+    "1.MPU/WPP/Test_Questions.md",
+    "1.MPU/WPP/Quiz_Test.md",
     "1.MPU/Anti_Corruption/Final Revision.md",
+    "00-Inbox/Some git commands.md",
     "1.MPU/Anti_Corruption/Final Lessons.md",
     "1.MPU/WPP/Factors to assess websites.md",
     "1.MPU/WPP/Comparison/Nike VS Adidas Vs Puma.md",
@@ -238,9 +217,6 @@
     "1.MPU/Anti_Corruption/Summary.md",
     "1.MPU/Anti_Corruption/What is Subsidiary.md",
     "1.MPU/Anti_Corruption/Fraud Mechanisms.md",
-    "1.MPU/Anti_Corruption/Case Time line.md",
-    "1.MPU/Anti_Corruption/Case Study  Najib Razak – SRC International (Malaysia).md",
-    "1.MPU/Anti_Corruption/Case details.md",
     "1.MPU/Anti_Corruption/Attachments/Pasted image 20260309124503.png",
     "1.MPU/Anti_Corruption/Attachments",
     "1.MPU/Anti_Corruption/Pasted image 20260309115813.png",
