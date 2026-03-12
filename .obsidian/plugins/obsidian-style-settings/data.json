@@ -1,0 +1,16 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-full-palette",
+  "catppuccin-icon-styles@@ctp-icon-hide": true,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-rosewater",
+  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#181825",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-vanilla-plus",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-rosewater",
+  "anuppuccin-theme-settings@@anp-table-highlight-opacity": 0.5
+}

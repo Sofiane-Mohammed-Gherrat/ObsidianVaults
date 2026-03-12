@@ -1,0 +1,136 @@
+{
+  "highlightr-plugin:MyBlue": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "9"
+    }
+  ],
+  "highlightr-plugin:MyGreen-": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Key226"
+    }
+  ],
+  "highlightr-plugin:MyGreen2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "8"
+    }
+  ],
+  "highlightr-plugin:MyPurple": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "7"
+    }
+  ],
+  "highlightr-plugin:MyYellow": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "5"
+    }
+  ],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-icon-folder:iconize:set-icon-for-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "table-editor-obsidian:delete-row": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}

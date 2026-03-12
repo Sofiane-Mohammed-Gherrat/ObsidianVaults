@@ -1,0 +1,19 @@
+/* .code-nowrap .HyperMD-codeblock,
+.code-nowrap pre > code {
+  white-space: pre !important;
+  overflow-x: auto;
+} */
+/* Reading/Preview view: one scrollbar per code block */
+/* .markdown-preview-view pre {
+  overflow-x: auto;        
+  overflow-y: hidden;
+  max-width: unset;
+  scrollbar-gutter: stable; 
+} */
+/* .markdown-preview-view pre > code {
+  white-space: pre !important;  
+  word-break: normal !important;
+  overflow-wrap: normal !important;
+  display: inline-block;  
+  min-width: 100%;
+} */
