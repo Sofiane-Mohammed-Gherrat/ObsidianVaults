@@ -53,15 +53,6 @@
       "key": "O"
     }
   ],
-  "highlightr-plugin:Orange": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "5"
-    }
-  ],
   "omnisearch:show-modal-infile": [
     {
       "modifiers": [
@@ -131,6 +122,15 @@
         "Alt"
       ],
       "key": "T"
+    }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "4"
     }
   ]
 }

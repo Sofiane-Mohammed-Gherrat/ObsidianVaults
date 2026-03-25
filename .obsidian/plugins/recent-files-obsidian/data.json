@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Lesson 2",
+      "path": "1.MPU/WPP/Quiz_Test/Lesson 2.md"
+    },
+    {
+      "basename": "Lesson 1",
+      "path": "1.MPU/WPP/Quiz_Test/Lesson 1.md"
+    },
+    {
+      "basename": "Lesson 8",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 8.md"
+    },
+    {
+      "basename": "Lesson 7",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 7.md"
+    },
+    {
+      "basename": "Lesson 6",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 6.md"
+    },
+    {
+      "basename": "Lesson 5",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 5.md"
+    },
+    {
+      "basename": "Lesson 4",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 4.md"
+    },
+    {
+      "basename": "Lesson 3",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 3.md"
+    },
+    {
+      "basename": "Lesson 2",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 2.md"
+    },
+    {
+      "basename": "Lesson 1",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Lesson 1.md"
+    },
+    {
+      "basename": "Remember To Revise",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Remember To Revise.md"
+    },
+    {
+      "basename": "Section 165 of the Penal Code",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Section 165 of the Penal Code.md"
+    },
+    {
+      "basename": "Summary for all the sections",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Summary for all the sections.md"
+    },
+    {
+      "basename": "Pasted image 20260307102557",
+      "path": "Pasted image 20260307102557.png"
+    },
+    {
+      "basename": "Pasted image 20260304171225",
+      "path": "Pasted image 20260304171225.png"
+    },
+    {
+      "basename": "Pasted image 20260304113137",
+      "path": "Pasted image 20260304113137.png"
+    },
+    {
+      "basename": "Pasted image 20251020122006",
+      "path": "Pasted image 20251020122006.png"
+    },
+    {
+      "basename": "Procurement",
+      "path": "1.MPU/Anti_Corruption/Quiz Rev/Procurement.md"
+    },
+    {
+      "basename": "Assignment 1",
+      "path": "1.MPU/Anti_Corruption/Assignment 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "1.MPU/WPP/Untitled.base"
+    },
+    {
       "basename": "Quiz_Test",
       "path": "1.MPU/WPP/Quiz_Test.md"
     },
@@ -97,10 +177,6 @@
       "path": "1.MPU/Anti_Corruption/Case details.md"
     },
     {
-      "basename": "Assignment 1",
-      "path": "1.MPU/Anti_Corruption/Assignment 1.md"
-    },
-    {
       "basename": "Governance Weaknesses",
       "path": "1.MPU/Anti_Corruption/Governance Weaknesses.md"
     },
@@ -121,84 +197,8 @@
       "path": "AI And Medicine.md"
     },
     {
-      "basename": "Pasted image 20251020122006",
-      "path": "Pasted image 20251020122006.png"
-    },
-    {
       "basename": "MY Passwords vs. Passkeys - FIDO Bites Back!",
       "path": "MY Passwords vs. Passkeys - FIDO Bites Back!.md"
-    },
-    {
-      "basename": "Pasted image 20260304171225",
-      "path": "Pasted image 20260304171225.png"
-    },
-    {
-      "basename": "Pasted image 20260304113137",
-      "path": "Pasted image 20260304113137.png"
-    },
-    {
-      "basename": "User Administration",
-      "path": "00-Inbox/Linux CLI/User Administration.md"
-    },
-    {
-      "basename": "Beginning",
-      "path": "00-Inbox/Linux CLI/Beginning.md"
-    },
-    {
-      "basename": "Piping And Redirection",
-      "path": "00-Inbox/Linux CLI/Piping And Redirection.md"
-    },
-    {
-      "basename": "Dictionaries",
-      "path": "01-Permanent/python/Dictionaries.md"
-    },
-    {
-      "basename": "Pandas in 30min",
-      "path": "01-Permanent/Pandas in 30min.md"
-    },
-    {
-      "basename": "Strings in Python",
-      "path": "00-Inbox/Strings in Python.md"
-    },
-    {
-      "basename": "Example of template usage",
-      "path": "Implement Zettelkasten Into a Workflow/Example of template usage.md"
-    },
-    {
-      "basename": "Secure password manager",
-      "path": "Projects/Secure password manager.md"
-    },
-    {
-      "basename": "Platform game",
-      "path": "Projects/Platform game.md"
-    },
-    {
-      "basename": "Password Storage Tier List encryption, hashing, salting, bcrypt, and beyond",
-      "path": "Projects/Password manager Python/Password Storage Tier List encryption, hashing, salting, bcrypt, and beyond.md"
-    },
-    {
-      "basename": "Making A Password Manager Using Python & SQL",
-      "path": "Projects/Password manager Python/Making A Password Manager Using Python & SQL.md"
-    },
-    {
-      "basename": "Code Base explanation for pw manager",
-      "path": "Projects/Password manager Python/Code Base explanation for pw manager.md"
-    },
-    {
-      "basename": "Check for remote access",
-      "path": "00-Inbox/Check for remote access.md"
-    },
-    {
-      "basename": "An introduction to Shader Art Coding",
-      "path": "00-Inbox/An introduction to Shader Art Coding.md"
-    },
-    {
-      "basename": "science animations using Python - AE - Blender",
-      "path": "00-Inbox/science animations using Python - AE - Blender.md"
-    },
-    {
-      "basename": "Lists In Python",
-      "path": "Lists In Python.md"
     }
   ],
   "omittedPaths": [],

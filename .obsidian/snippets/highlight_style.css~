@@ -1,0 +1,5 @@
+/* Change the highlight color and opacity */
+mark {
+    background-color: rgba(255, 255, 0, 0.8y) !important; /* Yellow at 30% opacity */
+        color: inherit; /* Keeps the text color the same as your theme */
+        }
