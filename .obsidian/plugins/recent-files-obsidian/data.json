@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Lesson 1",
+      "path": "1.MPU/WPP/Quiz_Test/Lesson 1.md"
+    },
+    {
       "basename": "Lesson 2",
       "path": "1.MPU/WPP/Quiz_Test/Lesson 2.md"
     },
     {
-      "basename": "Lesson 1",
-      "path": "1.MPU/WPP/Quiz_Test/Lesson 1.md"
+      "basename": "Lesson 3",
+      "path": "1.MPU/WPP/Quiz_Test/Lesson 3.md"
+    },
+    {
+      "basename": "lesson 4",
+      "path": "1.MPU/WPP/Quiz_Test/lesson 4.md"
+    },
+    {
+      "basename": "Lesson 5",
+      "path": "1.MPU/WPP/Quiz_Test/Lesson 5.md"
+    },
+    {
+      "basename": "Lesson 6",
+      "path": "1.MPU/WPP/Quiz_Test/Lesson 6.md"
+    },
+    {
+      "basename": "test",
+      "path": "1.MPU/WPP/Quiz_Test/test.md"
+    },
+    {
+      "basename": "Remember",
+      "path": "1.MPU/WPP/Quiz_Test/Remember.md"
     },
     {
       "basename": "Lesson 8",
@@ -175,30 +199,6 @@
     {
       "basename": "Case details",
       "path": "1.MPU/Anti_Corruption/Case details.md"
-    },
-    {
-      "basename": "Governance Weaknesses",
-      "path": "1.MPU/Anti_Corruption/Governance Weaknesses.md"
-    },
-    {
-      "basename": "How Real time Monitoring Could Be Implemented",
-      "path": "1.MPU/Anti_Corruption/How Real time Monitoring Could Be Implemented.md"
-    },
-    {
-      "basename": "Assignment 2",
-      "path": "1.MPU/WPP/Assignment 2.md"
-    },
-    {
-      "basename": "Assignment 2 ( Bio_rector )",
-      "path": "1.MPU/WPP/Assignment 2 ( Bio_rector ).md"
-    },
-    {
-      "basename": "AI And Medicine",
-      "path": "AI And Medicine.md"
-    },
-    {
-      "basename": "MY Passwords vs. Passkeys - FIDO Bites Back!",
-      "path": "MY Passwords vs. Passkeys - FIDO Bites Back!.md"
     }
   ],
   "omittedPaths": [],

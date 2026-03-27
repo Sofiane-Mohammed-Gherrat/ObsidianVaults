@@ -7,7 +7,7 @@
 
 Cases from Lesson 2
 
-[[Lesson 4#🗣️ 3. OTHER NAMES FOR CORRUPTION]]
+[[1.MPU/WPP/Quiz_Test/lesson 4#🗣️ 3. OTHER NAMES FOR CORRUPTION]]
 
 ### What  is **embezzlement**
 
@@ -21,14 +21,14 @@ page 53-54 lesson 5
 ![[Pasted image 20260324131022.png|375]]
 
  S17A MACC Act get:
-[[Lesson 6#**C. Individuals**]]
+[[1.MPU/WPP/Quiz_Test/Lesson 6#**C. Individuals**]]
 
 
 section 49(1)
-[[Lesson 6#**Corruption is a _seizable_ offence**]]
+[[1.MPU/WPP/Quiz_Test/Lesson 6#**Corruption is a _seizable_ offence**]]
 
 section 36 (1-2-3)
-[[Lesson 6#**2. Cannot Explain Source of Wealth**]]
+[[1.MPU/WPP/Quiz_Test/Lesson 6#**2. Cannot Explain Source of Wealth**]]
 
 
 
