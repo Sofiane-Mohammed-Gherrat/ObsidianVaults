@@ -646,8 +646,7 @@ In the context of routine replies, what is the 'supportive tone' strategy for ha
 When a company is making a claim or requesting an adjustment due to dissatisfaction, what is the primary reason for maintaining a professional, 'cool' tone?::It helps resolve the situation sooner
 
 
-When using the indirect approach to deliver bad news, what should a writer do to ensure the conclusion is respectful and final? ::   
-Avoid statements that imply the matter is open to negotiation ✅
+When using the indirect approach to deliver bad news, what should a writer do to ensure the conclusion is respectful and final? :: Avoid statements that imply the matter is open to negotiation ✅
 
 
 

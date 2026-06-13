@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "11d79f65b20dfbe9",
+        "id": "b2cf44b6f91857c3",
         "type": "tabs",
         "children": [
           {
-            "id": "4d3171c6730beba3",
+            "id": "2252bc90a48ed5e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Summary"
+            }
+          },
+          {
+            "id": "e83a84e57dc568e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Workflow To Fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workflow To Fix"
+            }
+          },
+          {
+            "id": "f9284dc724ee5ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Improvements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Improvements"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +201,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,53 +227,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4d3171c6730beba3",
+  "active": "f9284dc724ee5ff4",
   "lastOpenFiles": [
-    "1.MPU/WPP/Quiz_Test/Lesson 1.md",
-    "1.MPU/WPP/Quiz_Test/Lesson 2.md",
-    "1.MPU/WPP/Quiz_Test/Lesson 3.md",
-    "1.MPU/WPP/Quiz_Test/lesson 4.md",
-    "1.MPU/WPP/Quiz_Test/Lesson 5.md",
-    "1.MPU/WPP/Quiz_Test/Lesson 6.md",
-    "1.MPU/WPP/Quiz_Test/test.md",
-    "1.MPU/WPP/Quiz_Test/Remember.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 8.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 7.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 6.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 5.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 4.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 3.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 2.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Lesson 1.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Remember To Revise.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Section 165 of the Penal Code.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Summary for all the sections.md",
-    "Pasted image 20260307102557.png",
-    "Pasted image 20260304171225.png",
-    "Pasted image 20260304113137.png",
-    "Pasted image 20251020122006.png",
-    "1.MPU/Anti_Corruption/Quiz Rev/Procurement.md",
-    "1.MPU/Anti_Corruption/Quiz Rev/Attachments/Pasted image 20260324131022.png",
-    "Attachments/Pasted image 20260324124018.png",
-    "Attachments",
-    "1.MPU/Anti_Corruption/Quiz Rev/Attachments/Pasted image 20260324090030.png",
-    "1.MPU/Anti_Corruption/Quiz Rev/Attachments/Pasted image 20260324085920.png",
-    "1.MPU/Anti_Corruption/Quiz Rev/Attachments",
-    "1.MPU/Anti_Corruption/Assignment 1.md",
-    "1.MPU/WPP/Quiz_Test",
-    "1.MPU/Anti_Corruption/Quiz Rev",
-    "1.MPU/WPP/Untitled.base",
-    "1.MPU/WPP/Quiz_Test.md",
-    "1.MPU/WPP/Test_Questions.md",
-    "1.MPU/Anti_Corruption/Final Revision.md",
-    "00-Inbox/Some git commands.md",
-    "1.MPU/Anti_Corruption/Final Lessons.md",
-    "1.MPU/WPP/Comparison.bak",
-    "1.MPU/Anti_Corruption/Attachments/Pasted image 20260309124503.png",
-    "1.MPU/Anti_Corruption/Attachments",
-    "1.MPU/Anti_Corruption/Pasted image 20260309115813.png",
-    "1.MPU/WPP/Comparison",
-    "1.MPU/WPP",
-    "1.MPU/Anti_Corruption"
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Workflow To Fix.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Improvements.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review",
+    "00-Inbox/Horizon/Finilized Agreemnet.md",
+    "00-Inbox/Horizon/Finilized Agreemnet Chnagment requiremnets.md",
+    "00-Inbox/Horizon/Rent Agreement Modifications.md",
+    "00-Inbox/Probability/A new.md",
+    "00-Inbox/Probability/Assignment 3.md",
+    "00-Inbox/Probability/A.md",
+    "00-Inbox/Probability/Attachments/Pasted image 20260612113550.png",
+    "00-Inbox/Probability/Attachments/Pasted image 20260612105914.png",
+    "00-Inbox/Probability/A others.md",
+    "00-Inbox/Probability/Attachments/Pasted image 20260612102136.png",
+    "00-Inbox/Probability/Attachments",
+    "00-Inbox/Horizon/Shariaa compliant and non compliant clauses.md",
+    "00-Inbox/Horizon/Final Clauses to modify.md",
+    "00-Inbox/Probability",
+    "00-Inbox/Horizon/Tracy ageement.md",
+    "00-Inbox/Horizon/Clauses understood as Riba.md",
+    "00-Inbox/Horizon/Legal charges payed by the tenant is not Riba.md",
+    "00-Inbox/AI Break throughs/Text Diffusion Models.md",
+    "00-Inbox/AI Break throughs.md",
+    "00-Inbox/AI Break throughs",
+    "00-Inbox/Horizon/Untitled.base",
+    "00-Inbox/Horizon/Untitled 2.base",
+    "00-Inbox/Horizon/Untitled 1.base",
+    "00-Inbox/Blender/Volume Absorption.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Autism support chatbot for parents ( Intel apps ).md",
+    "00-Inbox/Blender",
+    "00-Inbox/Attachments/Pasted image 20260512181658.png",
+    "00-Inbox/Linear Algebra/Chap 1 — Best Exercises.md",
+    "00-Inbox/Horizon",
+    "00-Inbox/Linear Algebra/Attachments/Pasted image 20260605111034.png",
+    "00-Inbox/Linear Algebra/Attachments/Pasted image 20260605111013.png",
+    "00-Inbox/Linear Algebra/Attachments",
+    "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (default).md",
+    "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (StreamLit).md",
+    "00-Inbox/3rd sem projects/Intel Apps/Ways To Improve The Architecture.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Tech Infrastructure.md",
+    "00-Inbox/3rd sem projects/Intel Apps/StreamLit ChatBot.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Proposal For Autism App.md",
+    "00-Inbox/Attachments/Pasted image 20260520032953.png",
+    "00-Inbox/Attachments/Pasted image 20260512182309.png",
+    "00-Inbox/Attachments/Pasted image 20260512182247.png",
+    "00-Inbox/Attachments/Pasted image 20260512182234.png"
   ]
 }

@@ -124,10 +124,28 @@
       "key": "T"
     }
   ],
+  "editing-toolbar:underline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editing-toolbar:change-font-color": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
   "highlightr-plugin:Orange": [
     {
       "modifiers": [
         "Alt",
+        "Mod",
         "Shift"
       ],
       "key": "4"

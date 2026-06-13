@@ -2,11 +2,17 @@
 ### Sources:
 1. **Intro**: https://www.youtube.com/watch?v=csgNflj69-Y
 2. **Matrices**: https://www.youtube.com/watch?v=y6bVhgmy2rw
+3. **Elementary Row Operations**: https://www.youtube.com/watch?v=XGbSkkGyVFA
 
-A **system of linear equations** is a set of two or more linear equations that involve the _same_ set of variables and are considered all at once. ([Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations?utm_source=chatgpt.com "System of linear equations"))
+### Important Channels:
+1. **Wrath of Math**: https://www.youtube.com/@WrathofMath
+
+
+>A **system of linear equations** is a set of two or more linear equations that involve the _same_ set of variables and are considered all at once. ([Wikipedia](https://en.wikipedia.org/wiki/System_of_linear_equations?utm_source=chatgpt.com "System of linear equations"))
 
 ---
-
+> **Span**: tells the portion of space that a set of vectors can cover using their combinations
+---
 ### Key points:
 
 - A _linear equation_ in variables (x_1, x_2, …, x_n) has the form  

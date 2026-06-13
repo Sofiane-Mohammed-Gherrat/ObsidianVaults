@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⏰",
-      "🏅",
-      "🥼",
-      "☝",
-      "🧪"
+      "🟡",
+      "💡",
+      "🔪",
+      "📄",
+      "🔌"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,23 @@
   "1.MPU/WPP/Genius Design.md": "🎩",
   "1.MPU/WPP/Factors to assess websites.md": "☝",
   "1.MPU/WPP/Comparison/EXEC Has Adidas and Nike Brand Perception Been Held Back by Website Performance?.md": "🏅",
-  "1.MPU/Anti_Corruption/Case Time line.md": "⏰"
+  "1.MPU/Anti_Corruption/Case Time line.md": "⏰",
+  "1.MPU/WPP/Quiz_Test/Templates.md": "📎",
+  "1.MPU/WPP/Templates": "📎",
+  "00-Inbox/Python 100/Hangman.md": "⛓",
+  "00-Inbox/3rd sem projects/Intel Apps": "📱",
+  "00-Inbox/3rd sem projects/Intel Apps/How The Project Works.md": "🏗",
+  "00-Inbox/3rd sem projects/Intel Apps/Limitation of The Current Architecture.md": "🚫",
+  "00-Inbox/3rd sem projects/Intel Apps/Proposal For Autism App.md": "🗞",
+  "00-Inbox/3rd sem projects/Intel Apps/Tech Infrastructure.md": "🖥",
+  "00-Inbox/3rd sem projects/Intel Apps/Ways To Improve The Architecture.md": "🆙",
+  "00-Inbox/3rd sem projects/Intel Apps/Autism support chatbot for parents ( Intel apps ).md": "🔖",
+  "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (default).md": "🔌",
+  "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (StreamLit).md": "🔌",
+  "00-Inbox/3rd sem projects/Intel Apps/My part ( Proposal ).md": "📄",
+  "00-Inbox/CV.md": "📄",
+  "00-Inbox/CV2.md": "📄",
+  "Ideas For AI Projects": "💡",
+  "Ideas For AI Projects/Forensic.md": "🔪",
+  "00-Inbox/Horizon/Clauses understood as Riba.md": "🟡"
 }
