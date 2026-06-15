@@ -48,3 +48,21 @@ The document is well-structured and covers the right territory. The three resear
 ## Bottom line
 
 It's a competent literature review for a first-year group project — the research is real, the sources are recent, and the argument for AutiGuide's existence is well-made. The main weakness is that it argues _for_ the project more than it genuinely interrogates it. A stronger review would acknowledge what AutiGuide _can't_ do yet, and frame those as future work rather than ignoring them.
+
+---
+
+Here's what Part 4 needs:
+
+**Existing content to strengthen:**
+
+- [ ] Yaacob et al. paragraph — add what specific _types_ of misinformation parents encountered, not just that they relied on unreliable sources
+- [ ] NASOM/The Star data — connect it more explicitly to the _information gap_, right now it reads as infrastructure critique only
+- [ ] Systematic review paragraph (Sciety, 2025) — the meltdown/wandering/sensory list feels dropped in without analysis; explain _why_ these specifically create information-seeking urgency
+- [ ] Global paragraph (Scattoni, Terol) — currently feels like a generic appendix; tie it back to Malaysia by contrasting or confirming the local findings
+
+**Missing sections to add:**
+
+- [ ] **Language and literacy barriers** — multilingual Malaysia (Malay, Chinese, Tamil, English), how this affects which sources caregivers can actually access and trust
+- [ ] **Trust and credibility of online information** — why caregivers distrust what they find, what signals make a source feel authoritative to a non-expert parent
+- [ ] **Emotional state during information-seeking** — caregivers often search during or immediately after a crisis; this affects what kind of response they need, and retrieval-based systems need to account for it
+- [ ] **Stigma as an information barrier** — already briefly mentioned but deserves its own point; stigma prevents caregivers from asking professionals directly, pushing them toward unverified online sources

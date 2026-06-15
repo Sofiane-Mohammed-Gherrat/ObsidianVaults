@@ -21,5 +21,7 @@
   "obsidian-linter",
   "better-word-count",
   "highlightr-plugin",
-  "open-vscode"
+  "open-vscode",
+  "excel",
+  "obsidian-excel-to-markdown-table"
 ]

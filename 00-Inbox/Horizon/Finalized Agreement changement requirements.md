@@ -2,7 +2,7 @@
 
 ## New Finalized Agreement:
 
-### ⚠️ Tenancy Termiantion:
+### ⚠️ Tenancy Termination:
 
 Termination of Tenancy by the owner is mentioned 3 times with different causes each time:
 
@@ -138,3 +138,45 @@ they are refer me as 'she'
 - For Clause 10.3.1, in case the Landlord rejects part of the Rectification Works and decides to appoint his own contractor, could we add that the costs should be reasonable and documented (photos, quotations, invoices), and that I'd have the chance to review and raise any concerns with the work?
 *I suggest*:
 > Any rejection of the Tenant's completed Rectification Works shall not be unreasonably made. Where the Landlord appoints his own contractor under this clause, the cost shall be reasonable and supported by photographs, quotations, invoices and/or receipts, and the Tenant shall have the right to review and raise any reasonable dispute regarding the cost before any action.
+
+
+
+---
+
+## Quick fixes:
+
+#### 3. Clause 10.3.1 Is Grammatically Broken
+
+> "If the Landlord rejects any part of the Rectification Works of the Tenant's completed Rectification Works shall not be unreasonably made."
+
+This sentence doesn't parse correctly: it's merging 2 ideas (the landlord can reject, and the rejection must not be unreasonable) into one garbled sentence. The protective intent is good, but as written it's genuinely ambiguous about what's actually being promised.
+
+**Suggested fix:**
+
+> If the Landlord rejects any part of the Rectification Works, such rejection shall not be unreasonably made.
+
+### Overlapping between clause 19 and 6(a)
+
+after you modified clause 19 and said that on the previous version there were an overlap between different sections about the termination 
+now clause 6(a) still overlaps with the clause 19 (which was modified):
+clause 6(a):
+> the Monthly Rent or any part of it remains unpaid for 14 days after it isdue (whether formally demanded or not) ...
+> then the Landlord has the right to terminate this Tenancy Contract and forfeit the Security and Utilities Deposit as damages.
+
+but clause 19 says:
+> In the event If the Monthly Rent remains unpaid for 14 days after it is due, the Landlord will send a written reminder (via email or WhatsApp) stating the amount owed. If payment is still not made within a further 14 days (30 days total), the Landlord may terminate the tenancy with 7 days' written notice, and may forfeit the Security and Utilities Deposits as damages. Before any termination or restriction of access takes place, the Landlord agrees to follow the proper legal process, rather than taking direct action such as changing locks.
+so 
+clause 6(a) -> termination if unpaid rent for 14 days.
+clause 19 -> gives a 30-day total process with reminders.
+
+
+
+---
+
+#### 3. Clause 10.3.1 Is Grammatically Broken
+
+> "If the Landlord rejects any part of the Rectification Works of the Tenant's completed Rectification Works shall not be unreasonably made."
+
+This sentence doesn't parse correctly: it's merging two ideas (the landlord can reject, and the rejection must not be unreasonable) into one garbled sentence. The protective intent is good, but as written it's genuinely ambiguous about what's actually being promised.
+
+**Suggested fix:** Request it be rewritten as: _"If the Landlord rejects any part of the Rectification Works, such rejection shall not be unreasonably made."_
