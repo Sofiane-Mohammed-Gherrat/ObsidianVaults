@@ -1,0 +1,8 @@
+
+Caregivers of children with Autism Spectrum Disorder (ASD) face pervasive difficulties accessing trustworthy information and immediate support (Chu et al., 2020; Dobrogowska-Schlebusch, 2016; Mohd Hussain et al., 2022). These challenges are particularly significant in Malaysia, where caregivers often experience difficulties understanding ASD diagnoses, navigating intervention pathways, and managing the broader impact of ASD on family life (Chu et al., 2020).
+
+This section examines the multi-layered obstacles caregivers experience across five core themes. First, the review establishes the impact of macro structural deficits: access to specialist services influences diagnostic timing, creating geographic disparities in diagnosis and intervention outcomes (Kalkbrenner et al., 2011). Furthermore, maintaining access to care imposes severe financial strain and employment disruptions on caregiving households (Ou et al., 2015).
+
+Second, the review addresses day-to-day burdens, demonstrating that caregivers often struggle to navigate these unfamiliar intervention options while simultaneously managing the broader effects of ASD on family functioning and well-being (Chu et al., 2020). The review also highlights how systemic information gaps increase caregiver vulnerability to misinformation and false health claims (Dobrogowska-Schlebusch, 2016). Collectively, these findings establish the complex informational, social, and structural barriers faced by caregivers, providing a definitive foundation for examining technology-based approaches to improving information accessibility and support.
+
+

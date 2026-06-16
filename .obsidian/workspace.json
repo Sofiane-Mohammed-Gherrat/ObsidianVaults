@@ -6,10 +6,46 @@
       {
         "id": "9523007983aadd58",
         "type": "tabs",
-        "dimension": 78.33152762730228,
+        "dimension": 51.023622047244096,
         "children": [
           {
-            "id": "2252bc90a48ed5e7",
+            "id": "f9d1e10cbbea43f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conclusion"
+            }
+          },
+          {
+            "id": "cfa8f279f82ff710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final 2"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b2cf44b6f91857c3",
+        "type": "tabs",
+        "dimension": 48.976377952755904,
+        "children": [
+          {
+            "id": "92e9dbf49e164892",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,153 +59,21 @@
             }
           },
           {
-            "id": "3199ff905a7a6217",
+            "id": "8118a80d9bb27f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary 2.md",
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary 2"
-            }
-          },
-          {
-            "id": "9fc23502715fec8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder"
-            }
-          },
-          {
-            "id": "809cc29493aa6df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Organized Papers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Organized Papers"
+              "title": "Conclusion 2"
             }
           }
-        ]
-      },
-      {
-        "id": "b2cf44b6f91857c3",
-        "type": "tabs",
-        "dimension": 21.668472372697725,
-        "children": [
-          {
-            "id": "e83a84e57dc568e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Workflow To Fix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Workflow To Fix"
-            }
-          },
-          {
-            "id": "f9284dc724ee5ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Improvements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Improvements"
-            }
-          },
-          {
-            "id": "4699be2e02eceadc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Literature Sources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Literature Sources"
-            }
-          },
-          {
-            "id": "51cd732a6c024152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "structure"
-            }
-          },
-          {
-            "id": "f058c92180d6e08a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Key words and questions for research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Key words and questions for research"
-            }
-          },
-          {
-            "id": "4fbb88590d936cdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Geography shapes ASD access mainly by slowing diagnosis and thinning the service supply. In one clinic-based study of 1,321 childr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geography shapes ASD access mainly by slowing diagnosis and thinning the service supply. In one clinic-based study of 1,321 childr"
-            }
-          },
-          {
-            "id": "acf2be16b7032f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Prof. Stuckler LR workflow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prof. Stuckler LR workflow"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -347,34 +251,35 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "2252bc90a48ed5e7",
+  "active": "cfa8f279f82ff710",
   "lastOpenFiles": [
-    "00-Inbox/3rd sem projects/Intel Apps/Ways To Improve The Architecture.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Organized Papers.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final 2.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion 2.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Information Need.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/word count.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final G.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Story Telling Format.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Prof. Stuckler LR workflow.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Geography shapes ASD access mainly by slowing diagnosis and thinning the service supply. In one clinic-based study of 1,321 childr.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Key words and questions for research.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/structure.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Literature Sources.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Improvements.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Final Structure for part4.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary 2.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Information Need.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Introduction.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/body.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final ChatGPT.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Workflow To Fix.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Organized Papers.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Ways To Improve The Architecture.md",
     "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (StreamLit).md",
     "00-Inbox/3rd sem projects/Intel Apps/My part ( Proposal ).md",
-    "00-Inbox/3rd sem projects/Intel Apps/Tech Infrastructure.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Limitation of The Current Architecture.md",
-    "00-Inbox/3rd sem projects/Intel Apps/How The Project Works.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Proposal For Autism App.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Autism support chatbot for parents ( Intel apps ).md",
-    "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (default).md",
-    "00-Inbox/3rd sem projects/Intel Apps/StreamLit ChatBot.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Key words and questions for research.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Improvements.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Workflow To Fix.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Geography shapes ASD access mainly by slowing diagnosis and thinning the service supply. In one clinic-based study of 1,321 childr.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/moderating variables Impact on strengthening the relationship between autism stigma and poor caregiver mental health.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/structure.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Prof. Stuckler LR workflow.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Literature Sources.md",
-    "Excel 2026-06-15 10.40.08.sheet.md",
-    "Excel 2026-06-15 10.36.05.sheet.md",
-    "Excel 2026-06-15 10.37.31.sheet.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Attachments/geographic disparities influence access to autism diagnosis.xlsx",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Attachments",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/geographic disparities influence access to autism diagnosis.xlsx",
@@ -387,7 +292,6 @@
     "00-Inbox/Probability/Attachments",
     "00-Inbox/Probability",
     "00-Inbox/AI Break throughs",
-    "00-Inbox/Horizon/Untitled.base",
     "00-Inbox/Attachments/Pasted image 20260512181658.png",
     "00-Inbox/Linear Algebra/Attachments/Pasted image 20260605111034.png",
     "00-Inbox/Linear Algebra/Attachments/Pasted image 20260605111013.png",

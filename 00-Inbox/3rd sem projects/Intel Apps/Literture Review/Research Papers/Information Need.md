@@ -32,6 +32,9 @@ Demonstrates the importance of the Internet as a key source of information and s
 ---
 **Author**:
 [Dobrogowska-Schlebusch (2016)](https://ejournals.eu/en/journal/zdrowie-publiczne-i-zarzadzanie/article/the-negative-consequences-of-closed-access-to-scientific-data-and-other-barriers-to-information-access-an-analysis-of-the-health-decisions-of-parents-having-children-with-autism-spectrum-disorder-asd?utm_source=chatgpt.com)
+
+Citation:
+Dobrogowska-Schlebusch, E. (2016). The negative consequences of closed access to scientific data and other barriers to information access – an analysis of the health decisions of parents having children with Autism Spectrum Disorder (ASD). Public Health and Governance, 2016, 131-140. doi: https://doi.org/10.4467/20842627OZ.16.016.5578
 #### Purpose of the Study
 
 To examine how barriers to scientific and healthcare information affect the health-related decisions of parents of children with ASD. ([Ejournals](https://ejournals.eu/en/journal/zdrowie-publiczne-i-zarzadzanie/article/the-negative-consequences-of-closed-access-to-scientific-data-and-other-barriers-to-information-access-an-analysis-of-the-health-decisions-of-parents-having-children-with-autism-spectrum-disorder-asd?utm_source=chatgpt.com "The negative consequences of closed access to scientific data and other barriers to information access – an analysis of the health decisions of parents having children with Autism Spectrum Disorder (ASD)"))
@@ -97,18 +100,39 @@ Highlights how access to reliable information influences parental decision-makin
 
 **To synthesize the impact**:
 
-|Knowledge Gap|Parental Belief/Action|Impact on Treatment Efficacy|Evidence Base|
-|---|---|---|---|
-|**Myth vs. Reality** — viewing ASD as "bad behavior" or low effort rather than a neurodevelopmental difference|Parents respond with discipline/correction rather than skill-building strategies|Misconceptions about the causes of ASD can act as obstacles to proper education and treatment, and such perceptions affect parent-child bonding as well as the prognosis, treatment, and management approach taken for the child|Well-supported (PMC8297016)|
-|**Ignoring Co-occurring Conditions** — focusing only on repetitive/social behaviors while missing sleep, GI, or anxiety issues|Parent addresses the "visible" symptom but not underlying medical/emotional drivers|Co-existing conditions such as sleep problems, GI issues, and anxiety can have an equal or greater impact than core ASD symptoms on behavior management, learning, and social development; comprehensive assessment of both core symptoms and comorbidities is considered essential for effective treatment|Strongly supported (Psychiatry Investigation review; PMC10967894)|
-|**Lack of Developmental Context** — expecting typical milestones/timelines instead of ASD-specific trajectories|Parent loses motivation or abandons a strategy before it's had time to work|Children with ASD show markedly different response patterns to intervention — some show rapid early gains while others show only modest progress, even under the same program|Indirectly supported — variability in response rates is well documented, but I didn't find a study stating directly that this _causes early dropout_. This row is a reasonable inference rather than a directly cited finding.|
+| Knowledge Gap                                                                                                                  | Parental Belief/Action                                                              | Impact on Treatment Efficacy                                                                                                                                                                                                                                                                                | Evidence Base                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Myth vs. Reality** — viewing ASD as "bad behavior" or low effort rather than a neurodevelopmental difference                 | Parents respond with discipline/correction rather than skill-building strategies    | Misconceptions about the causes of ASD can act as obstacles to proper education and treatment, and such perceptions affect parent-child bonding as well as the prognosis, treatment, and management approach taken for the child                                                                            | Well-supported (PMC8297016)                                                                                                                                                                                                    |
+| **Ignoring Co-occurring Conditions** — focusing only on repetitive/social behaviors while missing sleep, GI, or anxiety issues | Parent addresses the "visible" symptom but not underlying medical/emotional drivers | Co-existing conditions such as sleep problems, GI issues, and anxiety can have an equal or greater impact than core ASD symptoms on behavior management, learning, and social development; comprehensive assessment of both core symptoms and comorbidities is considered essential for effective treatment | Strongly supported (Psychiatry Investigation review; PMC10967894)                                                                                                                                                              |
+| **Lack of Developmental Context** — expecting typical milestones/timelines instead of ASD-specific trajectories                | Parent loses motivation or abandons a strategy before it's had time to work         | Children with ASD show markedly different response patterns to intervention — some show rapid early gains while others show only modest progress, even under the same program                                                                                                                               | Indirectly supported — variability in response rates is well documented, but I didn't find a study stating directly that this _causes early dropout_. This row is a reasonable inference rather than a directly cited finding. |
 
+The phrase **"Ignoring Co-occurring Conditions — focusing only on repetitive/social behaviors while missing sleep, GI, or anxiety issues"** refers to a critical failure in the scope of caregiving focus: assuming that Autism Spectrum Disorder (ASD) symptoms are solely defined by visible behavioral differences and neglecting the significant impact of related medical, emotional, or developmental comorbidities [1][2].
+
+### What This Gap Means
+
+In simple terms, this gap means that if caregivers only address a child's most noticeable behaviors—like repetitive actions or social difficulties—they may completely overlook underlying issues like chronic sleep disorders, gastrointestinal (GI) distress, or generalized anxiety. The literature emphasizes that these co-existing conditions are not peripheral problems; they can have an **equal or even greater impact** on the child's behavior and learning than the core ASD symptoms themselves [1][2].
+
+### Linking This to Theme 1: Knowledge Barriers
+
+This inability to recognize, assess, or treat comorbidities is a direct consequence of significant knowledge barriers, which are central to Theme 1 (Information and Knowledge Barriers).
+
+1.  **Limited Diagnostic Scope:** The gap highlights that the initial understanding of ASD by parents often focuses only on "visible" behaviors [1][2]. This narrow view suggests that the information provided to caregivers is incomplete or insufficiently comprehensive.
+2.  **Lack of Understanding Causality:** If a caregiver does not possess adequate knowledge about the complex neurological and systemic nature of ASD, they are more likely to misinterpret distress. For example, persistent GI discomfort might manifest as increased irritability (a core ASD-related behavior), leading the parent—due to a lack of comprehensive knowledge—to assume the irritability is purely an ASD issue rather than a symptom requiring medical intervention [1][2].
+3.  **Structural Knowledge Gaps:** The overall theme of Theme 1 points out that caregivers often face structural barriers when accessing reliable information, meaning they are unable to locate or distinguish between accurate and incomplete sources [6]. This struggle results in the limited knowledge base, which prevents them from realizing that their child's distress may stem from multiple interacting systems rather than a single "core" problem.
+
+### Knowledge Barriers as the Largest Challenge
+
+Drawing on the provided materials, knowledge barriers constitute what appears to be the largest challenge because they act as an **umbrella failure** that undermines all other efforts:
+
+*   **It determines the intervention:** If the parent believes only behavior is wrong (a common misconception), their actions are limited to discipline and correction [3]. The caregiving approach fails because it ignores medical or emotional drivers that require a different kind of professional support [1][4].
+*   **It erodes self-efficacy:** A lack of knowledge makes caregivers prone to internalizing blame, believing *they* failed as parents rather than understanding ASD as a complex neurological profile requiring structured, external support [4]. This loss of motivation and increased stress dramatically impacts adherence to treatment plans.
+*   **It is systemic:** The challenge isn't just that the parent doesn't know enough; it is that the available information ecosystem often fails to provide integrated knowledge (i.e., connecting GI symptoms $\rightarrow$ anxiety $\rightarrow$ behavior) [6]. Therefore, the failure of knowledge—whether due to scarcity or lack of comprehensiveness—is the root cause preventing effective and holistic caregiving strategies.
 ###### more concisely:
-|Knowledge Gap|Parental Belief/Action|Impact on Efficacy|Evidence|
-|---|---|---|---|
-|**Myth vs. Reality** (ASD = misbehavior)|Discipline/correction instead of skill-building|Misconceptions about ASD's causes can obstruct proper education and treatment, affecting how parents manage and treat the child|Well-supported|
-|**Ignoring Co-occurring Conditions** (sleep, GI, anxiety)|Treats only visible symptoms|Co-existing conditions like sleep, GI, and anxiety issues can impact behavior, learning, and social development as much or more than core ASD symptoms; comprehensive assessment of comorbidities is key to effective treatment|Strongly supported|
-|**Lack of Developmental Context** (typical milestones expected)|Gives up on strategies too early|Children with ASD show very different response patterns to the same intervention — some progress quickly, others only modestly|Indirect — variability in response is documented, but a direct "causes dropout" link wasn't found|
+| Knowledge Gap                                                   | Parental Belief/Action                          | Impact on Efficacy                                                                                                                                                                                                              | Evidence                                                                                          |
+| --------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Myth vs. Reality** (ASD = misbehavior)                        | Discipline/correction instead of skill-building | Misconceptions about ASD's causes can obstruct proper education and treatment, affecting how parents manage and treat the child                                                                                                 | Well-supported                                                                                    |
+| **Ignoring Co-occurring Conditions** (sleep, GI, anxiety)       | Treats only visible symptoms                    | Co-existing conditions like sleep, GI, and anxiety issues can impact behavior, learning, and social development as much or more than core ASD symptoms; comprehensive assessment of comorbidities is key to effective treatment | Strongly supported                                                                                |
+| **Lack of Developmental Context** (typical milestones expected) | Gives up on strategies too early                | Children with ASD show very different response patterns to the same intervention — some progress quickly, others only modestly                                                                                                  | Indirect — variability in response is documented, but a direct "causes dropout" link wasn't found |
 
 (2) the broad impact of having a child with ASD on parents' personal, social, and family lives; 
 (3) challenges encountered while seeking out speech-language intervention (e.g., locating services, navigating systems); and 
@@ -357,3 +381,137 @@ While the texts do not provide a direct causal link ("Because money is lost, car
 
 *   **[6]** (Source: Financial Burden of Family for the Children with Autism Spectrum Disorder, International Journal of Medical and Health Sciences): Provides specific data on the quantifiable loss of annual income associated with having a child with ASD.
 > Bhuiyan, M. R., Hossain, S. M. M., & Islam, M. Z. (2018). Financial burden of family for the children with autism spectrum disorder. _Age (years)_, _3_(5), 71.
+
+
+```
+AutiGuide_Project
+├── 00_LiteratureReview_Roles.md
+├── 01_LitteratureReview_Draft.md
+├── 02_Literature_Review_My_PART.md
+├── 02_Part4_Themes
+│   ├── 00_Overview_and_Paper_Index.md
+│   ├── Theme_1_Information_and_Knowledge_Barriers.md
+│   ├── Theme_2_Trust_and_Online_Health_Information.md
+│   ├── Theme_3_Stigma_and_Emotional_Barriers.md
+│   ├── Theme_4_Literature_Gap_Language_and_Emotional_State.md
+│   ├── Theme_5_Structural_Context_Service_and_Financial.md
+│   └── Theme_6_Implications_for_AutiGuide.md
+├── 03_Raw_Paper_Summaries.md
+└── App_Architecture
+    ├── How_The_app_Works.md
+    ├── Limitation_of_The_Current_Architecture.md
+    ├── My_Part(Proposal).md
+    ├── Proposal_For_Autism_App.md
+    ├── Tech_Infrastructure.md
+    ├── Teck_Stack.md
+    └── Ways_To_Improve_The_Architecture.md
+```
+
+
+---
+# System Prompt 
+
+```markdown
+You are assisting with an academic literature review.
+
+Your primary responsibility is to accurately synthesize evidence from the provided documents.
+
+Rules:
+
+1. Use only information contained in the provided sources.
+    
+2. Never invent:
+    
+    - authors
+        
+    - publication years
+        
+    - findings
+        
+    - statistics
+        
+    - citations
+        
+3. Clearly distinguish between:
+    
+    - evidence directly supported by sources
+        
+    - interpretations
+        
+    - identified literature gaps
+        
+4. When multiple studies support the same point,  
+    synthesize them rather than describing each study independently.
+    
+5. If evidence is insufficient, explicitly state that the literature does not provide enough information.
+    
+6. Maintain an academic and objective tone.
+    
+7. Do not promote or justify the proposed solution unless explicitly asked to discuss implications.
+    
+8. Prioritize evidence accuracy over writing fluency.
+    
+9. If a claim cannot be traced to a source, omit it.
+    
+10. Treat the supplied documents as the sole source of truth.
+
+If you are uncertain whether a claim is
+supported by the provided sources,
+do not include it.
+
+```
+
+
+# Even Better: Different Prompts for Different Stages
+
+This is how researchers actually work.
+
+## Stage 1: Theme Creation
+
+When converting raw summaries into themes:
+
+```
+Focus on identifying recurring patterns,similarities, differences, contradictions,and gaps across studies.Do not discuss AutiGuide.
+```
+
+---
+
+## Stage 2: Literature Review Writing
+
+When converting themes into prose:
+
+```
+Transform the theme into academic prose.Preserve all evidence.Do not introduce new findings.Do not introduce new citations.
+```
+
+---
+
+## Stage 3: Gap Analysis
+
+When writing Theme 4:
+
+```
+Identify limitations and omissionsin the reviewed literature.Only identify gaps supported bythe reviewed papers.
+```
+
+---
+
+## Stage 4: Theme 6
+
+When writing implications:
+
+```
+Use only previously established themes.Do not introduce new evidence.Build a logical argument from theidentified findings and gaps.
+```
+
+### Task Prompt
+
+Changes depending on the file.
+
+Example:
+
+```
+Using only Theme_3.mdWrite a literature review section.Requirements:- Academic tone- No new citations- No new findings- Preserve all evidence- Improve synthesis
+```
+
+This combination works better than a massive 100-line system prompt.
