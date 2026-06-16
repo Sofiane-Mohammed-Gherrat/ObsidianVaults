@@ -2,7 +2,7 @@
 
 # Global
 
-[**Twombly, E. C., Holtz, K. D., & Daub-Sychra, A. (2011).** _Exploring the Use of the Internet by Caregivers of People with Autism Spectrum Disorders to Obtain Caregiving Information._](**Twombly, E. C., Holtz, K. D., & Daub-Sychra, A. (2011).** _Exploring the Use of the Internet by Caregivers of People with Autism Spectrum Disorders to Obtain Caregiving Information._
+Twombly, E. C., Holtz, K. D., & Daub-Sychra, A. (2011). Exploring the use of the internet by caregivers of people with autism spectrum disorders to obtain caregiving information. _Journal of Consumer Health on the Internet_, _15_(1), 32-42.
 
 
 **Author(s) & Year**

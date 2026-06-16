@@ -6,7 +6,7 @@
       {
         "id": "9523007983aadd58",
         "type": "tabs",
-        "dimension": 51.023622047244096,
+        "dimension": 84.25196850393701,
         "children": [
           {
             "id": "f9d1e10cbbea43f8",
@@ -28,21 +28,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final 2.md",
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final 2"
+              "title": "AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder"
+            }
+          },
+          {
+            "id": "69f70f80e49ee6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/citations isolation prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "citations isolation prompt"
+            }
+          },
+          {
+            "id": "6a4efa9126fba245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/word count.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "word count"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "b2cf44b6f91857c3",
         "type": "tabs",
-        "dimension": 48.976377952755904,
+        "dimension": 15.748031496062993,
         "children": [
           {
             "id": "92e9dbf49e164892",
@@ -72,8 +100,7 @@
               "title": "Conclusion 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,12 +278,15 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "cfa8f279f82ff710",
+  "active": "6a4efa9126fba245",
   "lastOpenFiles": [
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/citations part4.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/citations isolation prompt.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final 2.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion 2.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Information Need.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion.md",
+    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Conclusion 2.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/word count.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Final G.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Story Telling Format.md",
@@ -269,7 +299,6 @@
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Improvements.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Final Structure for part4.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Literture Review/AutiGuide An Intelligent Chatbot for Parents of Children with Autism Spectrum Disorder.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Summary 2.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/Introduction.md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting/body.md",
@@ -278,8 +307,6 @@
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Part 4 Writting",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Organized Papers.md",
     "00-Inbox/3rd sem projects/Intel Apps/Ways To Improve The Architecture.md",
-    "00-Inbox/3rd sem projects/Intel Apps/Teck Stack (StreamLit).md",
-    "00-Inbox/3rd sem projects/Intel Apps/My part ( Proposal ).md",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Attachments/geographic disparities influence access to autism diagnosis.xlsx",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/Attachments",
     "00-Inbox/3rd sem projects/Intel Apps/Literture Review/Research Papers/geographic disparities influence access to autism diagnosis.xlsx",
